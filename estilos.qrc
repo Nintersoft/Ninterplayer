@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/checkbox.png</file>
+        <file>imgs/down_arrow.png</file>
+        <file>imgs/handle.png</file>
+        <file>imgs/np_cp_pad.png</file>
+        <file>imgs/controles/fw.PNG</file>
+        <file>imgs/controles/pl.PNG</file>
+        <file>imgs/controles/ps.PNG</file>
+        <file>imgs/controles/rw.PNG</file>
+    </qresource>
+</RCC>
